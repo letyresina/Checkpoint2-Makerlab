@@ -1,4 +1,4 @@
-# ⚙️ Caixa mecânica com engrenagem 
+# ⚙️ Caixa mecânica com engrenagem
 
 Uma caixa mecânica com engrenagem é um sistema de transmissão manual com dois eixos principais e várias engrenagens que permitem escolher diferentes relações de velocidade e força entre o motor e as rodas.
 
@@ -22,84 +22,98 @@ Essa caixa foi feita como parte 2 do checkpoint 2 nas aulas de Project-Based Mak
 
 ## 📏 Medidas (feitas com paquímetro)
 
-**Engrenagens pequenas**
-- Altura da engrenagem: 0,55 mm  
-- Raio da engrenagem (com dentes): 2,3 mm  
-- Raio da engrenagem (sem dentes): 1,6 mm  
-- Lado do quadrado interno da engrenagem: 0,65 mm  
-- Altura da engrenagem + base: 1,25 mm  
-- Círculo interno / suportes da base: ~0,45 mm  
+### Base
 
-**Engrenagem grande**
-- Altura da engrenagem com parafuso: 4,05 mm  
-- Raio interno: 2,55 mm  
-- Raio externo: 3,45 mm  
-- Raio do parafuso: 0,8 mm  
+- Altura da base: 3.5 mm
+- Altura pinos: 4.5 mm
+- Diâmetro da base: 100 mm
 
-**Peça em formato de estrela**
-- Altura da estrutura em “Y”: 4,7 mm  
-- Espessura das hastes: 0,85 mm  
-- Altura de cada haste: 0,74 mm  
-- Altura do centro: 1,1 mm  
+### Engrenagens pequenas
 
-**Base**
-- Altura da base: 0,35 mm  
-- Altura da base com suporte: 0,75 mm  
-- Raio da base: 10 cm  
+- Altura da engrenagem: 5.5 mm
+- Altura da engrenagem + base: 12.7 mm
+- Altura do quadrado = 7.2 mm
+- Lado do quadrado: 6.5 mm
+- Diâmetro da engrenagem (com dentes): ~24 mm
+- Diâmetro da engrenagem (sem dentes): ~15.5 mm
+- Diâmetro do buraco interno: ~5mm
+- Círculo interno / suportes da base: 4.5 mm
 
-**Encaixes e recortes**
-- Tamanho dos recortes (cutouts/insets): 0,2 mm  
-- Distância do lado externo do suporte até o lado interno do recorte: 0,85 mm  
+### Engrenagem grande
 
-**Tampa (cover base)**
-- Altura da base da tampa: 0,16 mm  
-- Espessura da borda (lip): 4,45 mm  
-- Altura da parede: 1 cm  
-- Altura da borda da parede: 0,7 mm  
-- Distância do recorte: 1,1 mm  
+- Altura da engrenagem com parafuso: 40.5 mm
+- Diâmetro interno: 25.5 mm
+- Diâmetro externo: 34.5 mm
+- Diâmetro do parafuso: 8 mm
 
-**Pétalas e trilhos**
-- Tamanho da pétala: 4,5 cm  
-- Largura da pétala: 4,1 cm  
-- Espessura da parede da pétala: 0,24 mm  
-- Distância do canto até a ponta: 4,85 mm  
-- Distância reta do trilho: 4,24 mm  
-- Espessura do trilho: 0,55 mm  
-- Raio do pino superior das pétalas: 0,5 mm  
+### Cover da base
 
+- Altura da base: 1 mm
+- Altura da base + parede (grossa): 10 mm
+- Altura da base + parede (fina): 6.6 mm
+- Espessura da parede (grossa): 4.4 mm
+- Espessura da parede (fina): 2.2 mm
+- Distância do recorte: 11 mm
+
+### Pétalas e trilhos
+
+- Altura da pétala: 21 mm
+- Largura da pétala: 41 mm
+- Tamanho radial da pétala (base reta -- ponta da pétala): 45 mm
+- Espessura da parede da pétala: 0.22 mm
+- Diâmetro dos pinos: 5.0 mm
+- Altura dos pinos: 3.5 mm
+
+O arco da curva das pétalas é centralizado no centro da base, raio igual ao raio da base (50 mm)
+
+### Tampa e trilhos
+
+- Altura da base da tampa: 3 mm
+- Espessura do trilho: ~6.6 mm
+- Distância lado interior inset pino -- lado interior trilho: 26.6 mm
+<!-- - Distância reta do trilho: ~42.7 mm -->
+
+### Peça em formato de estrela (Versão Grande)
+
+- Altura da estrutura em “Y”: 47 mm
+- Espessura das hastes: 8.5 mm
+- Altura de cada haste: 7.4 mm
+- Altura do centro: 11 mm
 
 ## 🔨 Montagem
 
-1. Na base que contém os furos de encaixe, comece encaixando as engrenagens pequenas que não possuem base, **conforme a imagem abaixo**.  
+1. Na base que contém os furos de encaixe, posicione a engrenagem maior no centro. Encaixe as engrenagens pequenas que **não possuem base quadrada**, na parte de **dentro** da base, rente à engrenagem maior. As engrenagens **com base**, na parte de **fora** da base **conforme imagem abaixo.**
 
-<img width="2044" height="1150" alt="Media" src="https://github.com/user-attachments/assets/edffad3e-2486-47e3-b50d-67005bd2b80a" />
+    Para posicionar corretamente, **alinhe os dentes** das engrenagens exteriores deixando **somente três dentes voltados para fora.**
+    <img width="1200" height="1600" alt="Media (11)" src="https://github.com/user-attachments/assets/d8a2a1ce-0285-4844-85fa-d7a1955f1a10" />
+    <hr>
 
-2. Em seguida, pegue as engrenagens que possuem base e encaixe-as umas nas outras, como um quebra-cabeça.  
+2. Depois, posicione a engrenagem maior (com base maior) no centro, no espaço restante. Com cuidado, vá girando as outras engrenagens até que ela se encaixe perfeitamente.
 
-<img width="1200" height="1600" alt="Media (11)" src="https://github.com/user-attachments/assets/d8a2a1ce-0285-4844-85fa-d7a1955f1a10" />
+3. Pegue a tampa da base e encaixe-a sobre a base já montada com as engrenagens. **Atenção: não force o encaixe**, pois a parte é frágil.
 
-3. Depois, posicione a engrenagem maior (com base maior) no centro, no espaço restante. Com cuidado, vá girando as outras engrenagens até que ela se encaixe perfeitamente.  
+    <img width="1200" height="1600" alt="Media (10)" src="https://github.com/user-attachments/assets/cbb02ecc-4f23-4129-b8c2-1a24a32525af" />
+    <hr>
 
-4. Pegue a outra base encaixe-a sobre a base já montada com as engrenagens. **Atenção: não force o encaixe.**  
+4. Pegue as caixas com os valores em ohms e encaixe o furo na engrenagem com base (nos cantos). Preste atenção aos valores de cada caixa para posicionar em ordem.
+    <img width="2044" height="1150" alt="Media (8)" src="https://github.com/user-attachments/assets/ffa59fdf-b9c8-420b-a145-abf31c809cf2" />
 
-<img width="1200" height="1600" alt="Media (10)" src="https://github.com/user-attachments/assets/cbb02ecc-4f23-4129-b8c2-1a24a32525af" />
+    **Atenção: Se os encaixes estiverem apertados demais, use uma lixa para aumentar a folga.**
+    **Se os dentes das engrenagens não estiverem alinhados corretamente, a caixa não fechará. Remova a tampa da base e ajuste o alinhamento dos dentes das engrenagens.**
+    <hr>
 
-5. Pegue as caixas com os valores em ohms (**conforme a imagem abaixo**) e encaixe o furo na engrenagem com base (nos cantos). Para posicionar corretamente, alinhe os dentes das engrenagens paralelamente à base, deixando três pontas voltadas para fora, **conforme a imagem abaixo**.  
+5. Em seguida, encaixe a tampa principal (foto abaixo) junto com as caixas inferiores, segurando tudo com cuidado e mantendo alinhado.  
 
-<img width="2044" height="1150" alt="Media (8)" src="https://github.com/user-attachments/assets/ffa59fdf-b9c8-420b-a145-abf31c809cf2" />
+    <img width="1200" height="1600" alt="Media (1)" src="https://github.com/user-attachments/assets/880aa8ee-5560-4570-89f1-7158533582d0" />
+    <hr>
 
-6. Em seguida, encaixe a tampa principal (foto abaixo) junto com as caixas inferiores, segurando tudo com cuidado e mantendo alinhado.  
-
-<img width="1200" height="1600" alt="Media (1)" src="https://github.com/user-attachments/assets/880aa8ee-5560-4570-89f1-7158533582d0" />
-
-7. Depois, pegue a peça em formato de estrela e encaixe-a no topo (na última engrenagem com base).  
+6. Depois, pegue a peça em formato de estrela e encaixe-a no topo (na última engrenagem com base).  
    - O parafuso de encaixe deve ser girado para a direita.  
    - O movimento da caixa ocorre para a esquerda.  
 
-<img width="2044" height="1150" alt="Media (16)" src="https://github.com/user-attachments/assets/d5a37964-f8fe-48fb-8059-dd235e23cd60" />
+    <img width="2044" height="1150" alt="Media (16)" src="https://github.com/user-attachments/assets/d5a37964-f8fe-48fb-8059-dd235e23cd60" />
+    <hr>
 
-8. Por fim, gire a estrela com cuidado no sentido oposto ao indicado anteriormente e observe o funcionamento. O vídeo abaixo demonstra o resultado final.
+7. Por fim, gire a estrela com cuidado no sentido oposto ao indicado anteriormente e observe o funcionamento. O vídeo abaixo demonstra o resultado final.
 
-https://github.com/user-attachments/assets/5f285b02-8f84-45cb-9284-cfea263defd5
-
-
+    https://github.com/user-attachments/assets/5f285b02-8f84-45cb-9284-cfea263defd5
